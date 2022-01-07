@@ -1,4 +1,4 @@
-### Hi there, I'm Dominique - aka [deffcolony]<!--[website]--> 👋 
+### Hi there👋
 
 <!-- [![Website](https://img.shields.io/website?label=website.com&style=for-the-badge&url=https%3A%2F%2Fwebsite.com)](https://website.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/deffcolony?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeffcolony&screen_name=deffcolony)
@@ -65,10 +65,6 @@
 <!-- [website]: https://website -->
 [twitter]: https://twitter.com/deffcolony
 [youtube]: https://youtube.com/deffcolony
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [mobaterminal]: https://mobaxterm.mobatek.net/
 [studiocode]: https://code.visualstudio.com/
 [github]: https://github.com/deffcolony
