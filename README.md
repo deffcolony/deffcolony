@@ -10,15 +10,64 @@
 - ⚡ Fun fact: I love to produce music and sound engineering, recording ambient sounds
 
 
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left">🌌 Deffcolony</th>
+        <th align="right">|⠀⠀🗕⠀⠀|⠀⠀🗗⠀⠀|⠀⠀🗙⠀⠀|</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="2">
+          <a href="#blank"><img src="https://i.gifer.com/origin/81/819e6ef27c2f13b211813f61ee68b201.gif" align="right" title="Some anime gif" width="190px" height="auto" alt="Cool Retro Stuff"></a>
+      <tr>
+        <td align="center">📫 Social Medias</td>
+        <td align="center">
+          <a href="https://steamcommunity.com/id/deffcolony/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
+          <a href="https://gitlab.com/deffcolony"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">💾 Operating Systems</td>
+        <td align="center">
+          <a href="#blank">
+          <a href="https://www.microsoft.com/en-us/software-download/windows11"><img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat&logo=microsoft&logoColor=white"> 
+          <a href="https://ubuntu.com/download/server"><img src="https://img.shields.io/badge/OS-Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=orange">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">🪛 Tools</td>
+        <td align="center">
+          <a href="#blank">
+            <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+            <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
+            <img src="https://img.shields.io/badge/MobaXterm-5C5543?style=flat&logo=gnometerminal&logoColor=white">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">🚀 Languages</td>
+        <td align="center">
+          <a href="#blank">
+            <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <br />
 
-### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][studiocode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][mobaterminal]
+
 
 <br />
 <br />
@@ -55,12 +104,19 @@
 
 ---
 
+
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="deffcolony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deffcolony&show_icons=true&hide_border=true" />
-
+  <summary><b>⚡ GitHub Analytics</b></summary>
+  <br />
+  <div align="center">
+    <a href="#blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=deffcolony&hide_title&show_icons=true&theme=vue&include_all_commits=true&count_private=true" height="180px" title="Nature is love 💚" alt="Deffcolony's stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deffcolony&layout=compact&theme=vue&langs_count=8&hide=jupyter%20notebook,java" height="180px" title="Nature is life 🧬" alt="Most Used Languages" />
+    </a>
+  </div>
 </details>
+
+
 
 <!-- [website]: https://website -->
 [twitter]: https://twitter.com/deffcolony
