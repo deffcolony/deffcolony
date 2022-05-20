@@ -3,6 +3,9 @@
 <!-- [![Website](https://img.shields.io/website?label=website.com&style=for-the-badge&url=https%3A%2F%2Fwebsite.com)](https://website.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/deffcolony?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeffcolony&screen_name=deffcolony)
 
+
+<img src="https://komarev.com/ghpvc/?username=deffcolony">
+
 ## I'm a Passionate self-hoster, love to learn new stuff about open sourch projects
 
 - 🐳 I’m currently learning docker
