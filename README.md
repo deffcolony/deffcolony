@@ -46,9 +46,9 @@
         <td align="center">🪛 Tools</td>
         <td align="center">
           <a href="#blank">
-            <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
-            <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
-            <img src="https://img.shields.io/badge/MobaXterm-5C5543?style=flat&logo=gnometerminal&logoColor=white">
+             <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+             <a href="https://www.gimp.org/downloads"><img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
+             <a href="https://mobaxterm.mobatek.net/download.html"><img src="https://img.shields.io/badge/MobaXterm-5C5543?style=flat&logo=gnometerminal&logoColor=white">
           </a>
         </td>
       </tr>
