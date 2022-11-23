@@ -10,7 +10,7 @@
 
 - 🐳 I’m currently learning docker
 - 🔭 2022 Goals: Contribute more to Open Source projects and learning more about security
-- ⚡ Fun fact: I love to produce music and sound engineering, recording ambient sounds
+- ⚡ Fun fact: I enjoy producing music as well as recording ambient sounds.
 
 
 
