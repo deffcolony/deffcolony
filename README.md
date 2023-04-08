@@ -9,7 +9,7 @@
 ## I'm a Passionate self-hoster, love to learn new stuff about open sourch projects
 
 - 🐳 I’m currently learning docker
-- 🔭 2022 Goals: Contribute more to Open Source projects and learning more about security
+- 🔭 2023 Goals: Contribute more to Open Source projects and learning more about 🛞Kubernetes
 - ⚡ Fun fact: I enjoy producing music as well as recording ambient sounds.
 
 
