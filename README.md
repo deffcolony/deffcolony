@@ -25,7 +25,7 @@
     <tbody>
       <tr>
         <td colspan="2">
-          <a href="#blank"><img src="https://i.gifer.com/origin/81/819e6ef27c2f13b211813f61ee68b201.gif" align="right" title="Some anime gif" width="190px" height="auto" alt="Cool Retro Stuff"></a>
+          <a href="#blank"><img src="https://i.gifer.com/origin/81/819e6ef27c2f13b211813f61ee68b201.gif" align="right" title="This PC" width="190px" height="auto" alt="Cool Retro Stuff"></a>
       <tr>
         <td align="center">📫 Social Medias</td>
         <td align="center">
